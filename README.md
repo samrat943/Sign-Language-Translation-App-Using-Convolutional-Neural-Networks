@@ -105,6 +105,11 @@ To retrain the CNN models on updated or custom datasets:
 3. **Model Training & TFLite Export**:
    - Run `notebooks/02_train_cnn_model.ipynb` to train the CNN model and automatically export `models/sign_cnn.h5` and `models/sign_cnn.tflite`.
 
+### Notebooks on Google Colab
+
+- [Data Exploration & Preprocessing](https://colab.research.google.com/drive/1fEOOhLk_1XU6ftWQA652mFHEifZBY5FT?usp=sharing)
+- [CNN Model Training & TFLite Export](https://colab.research.google.com/drive/1xjDDYRZf30x13hqnjBA1FZY0phPprFR4?usp=sharing)
+
 ---
 
 ## Tech Stack
