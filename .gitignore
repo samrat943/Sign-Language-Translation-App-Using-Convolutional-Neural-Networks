@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Datasets and Models
+data/
+models/*.h5
+models/*.keras
+models/*.pth
+models/*.pt
+
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
