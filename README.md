@@ -107,8 +107,8 @@ To retrain the CNN models on updated or custom datasets:
 
 ### Notebooks on Google Colab
 
-- Data Exploration & Preprocessing: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fEOOhLk_1XU6ftWQA652mFHEifZBY5FT?usp=sharing)
-- CNN Model Training & TFLite Export: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xjDDYRZf30x13hqnjBA1FZY0phPprFR4?usp=sharing)
+- [Data Exploration & Preprocessing](https://colab.research.google.com/drive/1fEOOhLk_1XU6ftWQA652mFHEifZBY5FT?usp=sharing)
+- [CNN Model Training & TFLite Export](https://colab.research.google.com/drive/1xjDDYRZf30x13hqnjBA1FZY0phPprFR4?usp=sharing)
 
 ---
 

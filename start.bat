@@ -18,11 +18,13 @@ if not exist "venv\Scripts\activate.bat" (
 
 call .\venv\Scripts\activate.bat
 
+set "PYTHONUTF8=1"
+
 echo Virtual environment activated.
 echo Launching Streamlit interface...
 echo.
 
-streamlit run app/main.py
+python -m streamlit run app/main.py
 
 if %ERRORLEVEL% NEQ 0 (
     echo.
